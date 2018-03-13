@@ -5,8 +5,8 @@
 备注：**每个项目最终提交的项目报告为最后一个文件。**
 
 1. **课程项目I：探索未来气候发展趋势**
-  - 文件夹包含的文件
-    1. [Project1_Instruction.pdf](https://github.com/kexinlin/Udacity-Data-Analysis-2018-Term-1/blob/master/Project1/Project1_Instruction.pdf）
+  - 文件夹包含的文件
+    1. [Project1_Instruction.pdf](https://github.com/kexinlin/Udacity-Data-Analysis-2018-Term-1/blob/master/Project1/Project1_Instruction.pdf）
     2. [Project1_Final_Report.pdf](https://github.com/kexinlin/Udacity-Data-Analysis-2018-Term-1/blob/master/Project1/Project1_Final_Report.pdf)（项目分析文档）
   - 原始数据格式：csv
   - 编程语言：SQL
