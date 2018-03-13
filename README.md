@@ -29,7 +29,7 @@
     3. []()（Jupyter Notebook数据分析过程）
     4. []()（html格式数据分析过程）
   - 原始数据格式：csv
-  - 编程语言和库：Python，NumPy，Pandas，Matplotlib，Seaborn，Statsmodels
+  - 编程语言和库：Python，NumPy，Pandas，Matplotlib，Seaborn，StatsModels
   - 分析平台：Jupyter Notebook  
 
 
