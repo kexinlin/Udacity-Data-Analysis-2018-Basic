@@ -40,5 +40,5 @@
     3. []()（）
     4. []()（）
   - 原始数据格式：csv
-  - 编程语言和库：Python，NumPy，Pandas，random，Matplotlib，SciPy，StatsmMdels
+  - 编程语言和库：Python，NumPy，Pandas，random，Matplotlib，SciPy，StatsmModels
   - 数据计算平台：Jupyter Notebook
