@@ -6,11 +6,11 @@
 
 1. **课程项目I：探索未来气候发展趋势**
   - 文件夹包含的文件
-    1. [Project1_Instruction.pdf](https://github.com/kexinlin/Udacity-Data-Analysis-2018-Term-1/blob/master/Project1/Project1_Instruction.pdf)（官方项目说明）
-    2. [Project1_Final_Report.pdf](https://github.com/kexinlin/Udacity-Data-Analysis-2018-Term-1/blob/master/Project1/Project1_Final_Report.pdf)（项目分析报告）
+    1. [Project1_Instruction.pdf](https://github.com/kexinlin/Udacity-Data-Analysis-2018-Term-1/blob/master/Project1/Project1_Instruction.pdf)（官方项目说明）
+    2. [Project1_Final_Report.pdf](https://github.com/kexinlin/Udacity-Data-Analysis-2018-Term-1/blob/master/Project1/Project1_Final_Report.pdf)（项目分析报告）
   - 原始数据格式：csv
-  - 编程语言：SQL
-  - 分析平台：PostgreSQL，Excel
+  - 编程语言：SQL
+  - 分析平台：PostgreSQL，Excel
   
 2. **课程项目II：探索美国共享单车数据**
   - 文件夹包含的文件
