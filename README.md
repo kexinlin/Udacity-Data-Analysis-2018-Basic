@@ -16,8 +16,8 @@
   - [文件夹](https://github.com/kexinlin/Udacity-Data-Analysis-2018-Term-1/tree/master/Project2)包含的文件
     1. [data](https://github.com/kexinlin/Udacity-Data-Analysis-2018-Term-1/tree/master/Project2/data)（原始数据包）
     2. [examples](https://github.com/kexinlin/Udacity-Data-Analysis-2018-Term-1/tree/master/Project2/examples)（分析过程中的示例数据包）
-    3. [Bike_Share_Analysis-zh.ipynb](https://github.com/kexinlin/Udacity-Data-Analysis-2018-Term-1/blob/master/Project2/Bike_Share_Analysis-zh.ipynb)（Jupyter Notebook数据分析过程）
-    4. [Project2_Titanic.html](https://github.com/kexinlin/Udacity-Data-Analysis-2018-Term-1/blob/master/Project2/Bike_Share_Analysis-zh.html)（html格式数据分析过程）
+    3. [Bike_Share_Analysis-zh.ipynb](https://github.com/kexinlin/Udacity-Data-Analysis-2018-Term-1/blob/master/Project2/Bike_Share_Analysis-zh.ipynb)（Jupyter Notebook数据分析报告）
+    4. [Project2_Titanic.html](https://github.com/kexinlin/Udacity-Data-Analysis-2018-Term-1/blob/master/Project2/Bike_Share_Analysis-zh.html)（html格式数据分析报告）
   - 原始数据格式：csv
   - 编程语言和库：Python，csv，datetime，pprint
   - 分析平台：Jupyter Notebook  
