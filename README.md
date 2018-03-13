@@ -26,19 +26,19 @@
   - 文件夹包含的文件
     1. []()（Udacity官方项目说明和指示）
     2. []()（原始数据）
-    3. []()（Jupyter Notebook数据分析过程）
+    3. []()（Jupyter Notebook数据分析过程）
     4. []()（html格式数据分析过程）
   - 原始数据格式：csv
-  - 编程语言和库：Python，NumPy，Pandas，Matplotlib，Seaborn，Statsmodels
-  - 分析平台：Jupyter Notebook  
+  - 编程语言和库：Python，NumPy，Pandas，Matplotlib，Seaborn，Statsmodels
+  - 分析平台：Jupyter Notebook  
 
 
 4. **课程项目IV：分析 A/B 测试结果**
   - 文件夹包含的文件
     1. []()（Udacity官方项目说明和指示）
-    2. []()（原始数据）
+    2. []()（原始数据）
     3. []()（）
     4. []()（）
-  - 原始数据格式：csv
-  - 编程语言和库：Python，NumPy，Pandas，random，Matplotlib，SciPy，StatsmMdels
-  - 数据计算平台：Jupyter Notebook
+  - 原始数据格式：csv
+  - 编程语言和库：Python，NumPy，Pandas，random，Matplotlib，SciPy，StatsmMdels
+  - 数据计算平台：Jupyter Notebook
