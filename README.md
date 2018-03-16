@@ -26,8 +26,8 @@
   - [项目文件夹](https://github.com/kexinlin/Udacity-Data-Analysis-2018-Term-1/tree/master/Project3)包含的文件
     1. [Project3_Instruction.pdf](https://github.com/kexinlin/Udacity-Data-Analysis-2018-Term-1/blob/master/Project3/Project3_Instruction.pdf)（Udacity官方项目说明和指示）
     2. [noshowappointments-kagglev2-may-2016.csv](https://github.com/kexinlin/Udacity-Data-Analysis-2018-Term-1/blob/master/Project3/noshowappointments-kagglev2-may-2016.csv)（原始数据）
-    3. [Investigate_a_Dataset.ipynb](https://github.com/kexinlin/Udacity-Data-Analysis-2018-Term-1/blob/master/Project3/Investigate_a_Dataset.ipynb)（Jupyter Notebook数据分析报告）
-    4. [Investigate_a_Dataset.html](https://github.com/kexinlin/Udacity-Data-Analysis-2018-Term-1/blob/master/Project3/Investigate_a_Dataset.html)（html格式数据分析报告）
+    3. [Investigate_a_Dataset.ipynb](https://github.com/kexinlin/Udacity-Data-Analysis-2018-Term-1/blob/master/Project3/Investigate_a_Dataset.ipynb)（Jupyter Notebook数据分析报告）
+    4. [Investigate_a_Dataset.html](https://github.com/kexinlin/Udacity-Data-Analysis-2018-Term-1/blob/master/Project3/Investigate_a_Dataset.html)（html格式数据分析报告）
   - 原始数据格式：csv
   - 编程语言和库：Python，NumPy，Pandas，Matplotlib，Seaborn，StatsModels
   - 分析平台：Jupyter Notebook  
@@ -35,10 +35,10 @@
 
 4. **课程项目IV：分析 A/B 测试结果**
   - [项目文件夹](https://github.com/kexinlin/Udacity-Data-Analysis-2018-Term-1/tree/master/Project4)包含的文件
-    1. [ab_data.csv](https://github.com/kexinlin/Udacity-Data-Analysis-2018-Term-1/blob/master/Project4/ab_data.csv)（原始数据一）
-    2. [countries.csv](https://github.com/kexinlin/Udacity-Data-Analysis-2018-Term-1/blob/master/Project4/countries.csv)（原始数据二）
-    3. [Analyze_ab_test_results_notebook.ipynb](https://github.com/kexinlin/Udacity-Data-Analysis-2018-Term-1/blob/master/Project4/Analyze_ab_test_results_notebook.ipynb)（Jupyter Notebook A/B测试分析报告）
-    4. [Analyze_ab_test_results_notebook.html](https://github.com/kexinlin/Udacity-Data-Analysis-2018-Term-1/blob/master/Project4/Analyze_ab_test_results_notebook.html)（html格式A/B测试分析报告）
+    1. [ab_data.csv](https://github.com/kexinlin/Udacity-Data-Analysis-2018-Term-1/blob/master/Project4/ab_data.csv)（原始数据一）
+    2. [countries.csv](https://github.com/kexinlin/Udacity-Data-Analysis-2018-Term-1/blob/master/Project4/countries.csv)（原始数据二）
+    3. [Analyze_ab_test_results_notebook.ipynb](https://github.com/kexinlin/Udacity-Data-Analysis-2018-Term-1/blob/master/Project4/Analyze_ab_test_results_notebook.ipynb)（Jupyter Notebook A/B测试分析报告）
+    4. [Analyze_ab_test_results_notebook.html](https://github.com/kexinlin/Udacity-Data-Analysis-2018-Term-1/blob/master/Project4/Analyze_ab_test_results_notebook.html)（html格式A/B测试分析报告）
   - 原始数据格式：csv
   - 编程语言和库：Python，NumPy，Pandas，random，Matplotlib，SciPy，StatsmModels
   - 数据计算平台：Jupyter Notebook
